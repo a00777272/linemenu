@@ -1,2 +1,4 @@
+os
+requests
 flask
 line-bot-sdk
